@@ -7,4 +7,5 @@
 		.top .nav ul li a:hover{color: rgb(164,230,248);}
 		.top .bg{width: 100%;height: 690px;background: #282A35;border-top: 1px solid #000;position: relative;}
 		.top .bg .text-top{width: 1226px;height: 38px;color: rgb(118,169,183);font-family: "微软雅黑";font-size: 24px;font-weight: 800;line-height: 38px;text-align: center;margin: 500px auto 0 auto;}
-		.top .bg .text{width: 1226px;height: 152px;color: rgb(118,169,183);font-family: "微软雅黑";font-size: 18px;font-weight: 600;line-height: 20px;margin: 0 auto;line-height: 24px;text-align: center;}
+		.top .bg .text-bg{width: 1226px;height: 152px;color: rgb(118,169,183);font-family: "微软雅黑";font-size: 18px;font-weight: 600;line-height: 20px;margin: 0 auto;line-height: 24px;text-align: center;}
+		.top .bg .text{width: 1226px;height: 3000px;color: #000;font-family: "微软雅黑";font-size: 18px;font-weight: 600;line-height: 20px;margin: 0 auto;line-height: 24px;text-align: center;}
